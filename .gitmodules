@@ -1,0 +1,9 @@
+[submodule "parroton-core"]
+	path = parroton-core
+	url = https://github.com/KStasi/parroton-core.git
+[submodule "parroton-bot"]
+	path = parroton-bot
+	url = https://github.com/Digberi/parroton-bot.git
+[submodule "parroton"]
+	path = parroton
+	url = https://github.com/Digberi/parroton.git
