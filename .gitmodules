@@ -6,4 +6,4 @@
 	url = https://github.com/madfish-solutions/parroton-bot
 [submodule "parroton"]
 	path = parroton
-	url = https://github.com/madfish-solutions/parroton
+	url = https://github.com/madfish-solutions/parroton-web
