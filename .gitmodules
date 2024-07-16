@@ -1,0 +1,9 @@
+[submodule "parroton-core"]
+	path = parroton-core
+	url = git@github.com:madfish-solutions/parroton-core.git
+[submodule "parroton-bot"]
+	path = parroton-bot
+	url = https://github.com/madfish-solutions/parroton-bot
+[submodule "parroton-web"]
+	path = parroton-web
+	url = https://github.com/madfish-solutions/parroton-web
